@@ -1,0 +1,13 @@
+
+
+===== Café Order =====
+Chicken Spring Rolls x2 @ 80 = 160
+Karak Chai x2 @ 120 = 240
+Grand Total: Rs. 400
+=======================
+
+===== Café Order =====
+Paratha x1 @ 40 = 40
+Grand Total: Rs. 40
+=======================
+

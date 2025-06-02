@@ -1,0 +1,17 @@
+Customer Name: Hasan
+Contact: 123
+Address: jkewqh
+
+Order Details:
+Paratha x1 = 40 PKR
+Beef Nihari (1 plate) x1 = 180 PKR
+Anda Paratha x1 = 100 PKR
+Anda Paratha x2 = 200 PKR
+Dahi Bhalla (1 Plate) x2 = 600 PKR
+Chai + Rusks/Biscuits (1 Cup + 2 Biscuits) x2 = 200 PKR
+Dahi Bhalla (1 plate) x2 = 300 PKR
+Samosa x2 = 100 PKR
+
+Total: 1720 PKR
+
+Thank you for ordering from Cafe Heaven!
